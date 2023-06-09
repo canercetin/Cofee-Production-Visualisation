@@ -1,0 +1,2102 @@
+[
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "cerrado",
+    "Data.Production.Number of bags": 75,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Data.Production.Number of bags": 31,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 85
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Data.Production.Number of bags": 16,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "mogiana",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 33,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 39,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 51,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 44,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 53,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Data.Production.Number of bags": 17,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 81.17
+  },
+  {
+    "Location.Country": "Burundi",
+    "Location.Region": "kayanza",
+    "Data.Production.Number of bags": 220,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "cundinamarca",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 85.08
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "cundinamarca",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "cundinamarca",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.42
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.92
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.17
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 175,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "la plata",
+    "Data.Production.Number of bags": 175,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Costa Rica",
+    "Location.Region": "san rafael",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 79.17
+  },
+  {
+    "Location.Country": "Costa Rica",
+    "Location.Region": "tres rios",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.58
+  },
+  {
+    "Location.Country": "El Salvador",
+    "Location.Region": "ataco, apaneca - ilamatepec mountain range",
+    "Data.Production.Number of bags": 19,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.58
+  },
+  {
+    "Location.Country": "Ethiopia",
+    "Location.Region": "ethiopia, sidamo",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.08
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "acatenango",
+    "Data.Production.Number of bags": 150,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "acatenango",
+    "Data.Production.Number of bags": 125,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "antigua",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "antigua",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "atitlan",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "el tumbador, san marcos",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 84.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "guatemala",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "huehuetenango",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "jalapa",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "jalapa",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "la reforma, san marcos",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "nuevo oriente",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "nuevo oriente",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 59.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.25
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.92
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 76.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.58
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.58
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "quetzaltenango",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": "1.360.776",
+    "Data.Scores.Total": 83.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "sacatepequez, guatemala",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "san marcos",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Haiti",
+    "Location.Region": "department d'artibonite , haiti",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 67.92
+  },
+  {
+    "Location.Country": "Haiti",
+    "Location.Region": "haiti",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 80.75
+  },
+  {
+    "Location.Country": "Haiti",
+    "Location.Region": "thiotte, haiti",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": "1.814.368",
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "Indonesia",
+    "Location.Region": "east java",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Indonesia",
+    "Location.Region": "ijen",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Indonesia",
+    "Location.Region": "lintong",
+    "Data.Production.Number of bags": 54,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 85.17
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "blend",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 85.33
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 85.33
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Data.Production.Number of bags": 38,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 85
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Data.Production.Number of bags": 150,
+    "Data.Production.Bag weight": 9000,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "nyeri",
+    "Data.Production.Number of bags": 235,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "nyeri",
+    "Data.Production.Number of bags": 235,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "adolfo lopez mateos",
+    "Data.Production.Number of bags": 200,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "altotonga",
+    "Data.Production.Number of bags": 200,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "amatenango de la frontera",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "atoyac de alvarez",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "atoyac de alvarez",
+    "Data.Production.Number of bags": 21,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "atoyac de alvarez",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "calnali, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "calnali, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "canoas",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "chapulhuacan, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "chocaman, veracruz",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 25,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 23,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 76.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 73.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec, coatepec",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec, coatepec",
+    "Data.Production.Number of bags": 253,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec, coatepec",
+    "Data.Production.Number of bags": 127,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "cofradia de suchitlan",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "colima",
+    "Data.Production.Number of bags": 70,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "colima",
+    "Data.Production.Number of bags": 60,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "cordoba",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coscomatepec",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "el remudadero",
+    "Data.Production.Number of bags": 80,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "escuitla",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "fln mirador",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huautla de jimenez",
+    "Data.Production.Number of bags": 18,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huazalingo, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huazalingo, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huazalingo, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "hustusco",
+    "Data.Production.Number of bags": 56,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "ixhuatlan del cafe",
+    "Data.Production.Number of bags": 60,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "jaltenango",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "jaltenango",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "jaltocan, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "juchique de ferrer",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 68.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "juquila",
+    "Data.Production.Number of bags": 40,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia, chiapas",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia, chiapas",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia, chiapas",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la cumbre",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la yerbabuena",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "los angeles",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "mahuixtlan",
+    "Data.Production.Number of bags": 23,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "manzanillo",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "menglian",
+    "Data.Production.Number of bags": 43,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "oaxaca",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "oaxaca",
+    "Data.Production.Number of bags": 42,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "oaxaca",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "ocosingo",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "ohuapan, tlaltetela",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "petatlan",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "petatlan",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "petatlan",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "pochutla",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "pochutla",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "progreso santa rosa teocelo",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san bartolo tutotepec",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san bartolo tutotepec",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san bartolo tutotepec",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san fernando",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san isidro",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san miguel del puerto",
+    "Data.Production.Number of bags": 256,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santa catarina juquila",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santa catarina juquila",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santa maria sitepec",
+    "Data.Production.Number of bags": 40,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santo domingo cacalotepec",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santo reyes nopala",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "talpa de allende",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "talpa de allende",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Data.Production.Number of bags": 69,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 80,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "temaxcalapa",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tenango de doria, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tenango de doria, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tepetzingo",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tepictla",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tlanchinol, hidalgo",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tlatlauquitepec",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 71.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "totutla",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tuxtla gutierrez",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 80,
+    "Data.Scores.Total": 84.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tuxtla gutierrez",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tuxtla gutierrez",
+    "Data.Production.Number of bags": 36,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 26,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 302,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 70,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 82,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 35,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Data.Production.Number of bags": 25,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 71
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 87.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xicotepec de juarez",
+    "Data.Production.Number of bags": 48,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xicotepec de juarez",
+    "Data.Production.Number of bags": 48,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xicotepec de juarez",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "yajalon",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "yajalon",
+    "Data.Production.Number of bags": 53,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "yecuatla",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zapotitlan de mendez",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 18,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 13,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 13,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 16,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 11,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 76.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zaragoza itundujia",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zentla",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zentla",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zihuatanejo de azueta",
+    "Data.Production.Number of bags": 74,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Panama",
+    "Location.Region": "boquete",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Peru",
+    "Location.Region": "san ignacio",
+    "Data.Production.Number of bags": 280,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 79
+  },
+  {
+    "Location.Country": "Taiwan",
+    "Location.Region": "mountain ali, taiwan",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 84.42
+  },
+  {
+    "Location.Country": "Thailand",
+    "Location.Region": "chiang rai",
+    "Data.Production.Number of bags": 53,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 86.17
+  },
+  {
+    "Location.Country": "Thailand",
+    "Location.Region": "thailand",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Thailand",
+    "Location.Region": "thailand",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "kasese",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.25
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "kasese",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "mbale",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "mt. rwenzori",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.17
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "sipi, mt elgon",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 86
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "chikmagalur",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 86.25
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 85.58
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 85.42
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 5,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.42
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.25
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 13,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.42
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 11,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 6,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 6,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 6,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 4,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 19,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 81.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 13,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 80.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 80.33
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 79.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 5,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 78.25
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Data.Production.Number of bags": 22,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 73.67
+  },
+  {
+    "Location.Country": "Vietnam",
+    "Location.Region": "don duong",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "Vietnam",
+    "Location.Region": "don duong",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82.08
+  }
+]
