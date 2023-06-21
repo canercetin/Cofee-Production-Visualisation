@@ -1,1512 +1,1296 @@
 [
   {
-    "Location.Country": "Brazil",
-    "Location.Region": "cerrado",
-    "Data.Production.Number of bags": 75,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "grama valley",
-    "Data.Production.Number of bags": 31,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 85
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "grama valley",
-    "Data.Production.Number of bags": 30,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 83.25
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "grama valley",
-    "Data.Production.Number of bags": 16,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82.33
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "grama valley",
-    "Data.Production.Number of bags": 8,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 81.92
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "mogiana",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 33,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 83.58
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 39,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 51,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 44,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82.33
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 53,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 82
-  },
-  {
-    "Location.Country": "Brazil",
-    "Location.Region": "south of minas",
-    "Data.Production.Number of bags": 17,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 81.17
-  },
-  {
-    "Location.Country": "Burundi",
-    "Location.Region": "kayanza",
-    "Data.Production.Number of bags": 220,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 83.33
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "cundinamarca",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 85.08
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "cundinamarca",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.58
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "cundinamarca",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.42
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 84.92
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 84.58
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 84.58
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 84.17
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.67
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.58
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 175,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.5
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.33
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.25
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.75
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.67
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.58
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.58
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.5
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.33
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.25
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "huila",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 82.25
-  },
-  {
-    "Location.Country": "Colombia",
-    "Location.Region": "la plata",
-    "Data.Production.Number of bags": 175,
-    "Data.Production.Bag weight": 70,
-    "Data.Scores.Total": 83.25
-  },
-  {
-    "Location.Country": "Costa Rica",
-    "Location.Region": "san rafael",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 79.17
-  },
-  {
-    "Location.Country": "Costa Rica",
-    "Location.Region": "tres rios",
-    "Data.Production.Number of bags": 1,
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Year": 2012,
+    "Data.Owner": "roberto licona franco",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 14,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.58
+    "Data.Scores.Total": 87.17
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 86.25
+  },
+  {
+    "Location.Country": "Thailand",
+    "Location.Region": "chiang rai",
+    "Year": 2012,
+    "Data.Owner": "itdp international",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 53,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 86.17
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "sipi, mt elgon",
+    "Year": 2012,
+    "Data.Owner": "afca",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 86
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "acatenango",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 150,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "nuevo oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.83
   },
   {
     "Location.Country": "El Salvador",
     "Location.Region": "ataco, apaneca - ilamatepec mountain range",
+    "Year": 2012,
+    "Data.Owner": "lusso lab",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
     "Data.Production.Number of bags": 19,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 85.58
   },
   {
-    "Location.Country": "Ethiopia",
-    "Location.Region": "ethiopia, sidamo",
-    "Data.Production.Number of bags": 100,
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 85.58
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 85.42
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Year": 2012,
+    "Data.Owner": "rashid moledina & co. (msa) ltd.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL34",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
     "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 84.08
+    "Data.Scores.Total": 85.33
   },
   {
-    "Location.Country": "Guatemala",
-    "Location.Region": "acatenango",
-    "Data.Production.Number of bags": 150,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 85.83
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "acatenango",
-    "Data.Production.Number of bags": 125,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "antigua",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 82.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "antigua",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 79.75
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "atitlan",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 83.5
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "el tumbador, san marcos",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 84.5
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "guatemala",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.17
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "huehuetenango",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 85.17
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "jalapa",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 82.33
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "jalapa",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 81.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "la reforma, san marcos",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "nuevo oriente",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 85.83
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "nuevo oriente",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 59.83
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 83.5
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.25
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.83
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 275,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.5
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.33
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.17
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 82
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.5
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.17
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.25
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.17
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.33
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.33
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.33
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 77.92
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 76.33
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 75.58
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 75.58
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 74.75
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "oriente",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 74.75
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "quetzaltenango",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": "1.360.776",
-    "Data.Scores.Total": 83.75
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "sacatepequez, guatemala",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 83.67
-  },
-  {
-    "Location.Country": "Guatemala",
-    "Location.Region": "san marcos",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82
-  },
-  {
-    "Location.Country": "Haiti",
-    "Location.Region": "department d'artibonite , haiti",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 67.92
-  },
-  {
-    "Location.Country": "Haiti",
-    "Location.Region": "haiti",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 80.75
-  },
-  {
-    "Location.Country": "Haiti",
-    "Location.Region": "thiotte, haiti",
-    "Data.Production.Number of bags": 2,
-    "Data.Production.Bag weight": "1.814.368",
-    "Data.Scores.Total": 83.33
-  },
-  {
-    "Location.Country": "Indonesia",
-    "Location.Region": "east java",
-    "Data.Production.Number of bags": 10,
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Year": 2012,
+    "Data.Owner": "ibero kenya limited",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL34",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 300,
     "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 83.67
-  },
-  {
-    "Location.Country": "Indonesia",
-    "Location.Region": "ijen",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 81.5
+    "Data.Scores.Total": 85.33
   },
   {
     "Location.Country": "Indonesia",
     "Location.Region": "lintong",
+    "Year": 2012,
+    "Data.Owner": "nomura trading co., ltd.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Sumatra Lintong",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
     "Data.Production.Number of bags": 54,
     "Data.Production.Bag weight": 60,
     "Data.Scores.Total": 85.17
   },
   {
-    "Location.Country": "Kenya",
-    "Location.Region": "blend",
-    "Data.Production.Number of bags": 300,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 84
+    "Location.Country": "Guatemala",
+    "Location.Region": "huehuetenango",
+    "Year": 2012,
+    "Data.Owner": "the coffee source inc.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 85.17
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "cundinamarca",
+    "Year": 2012,
+    "Data.Owner": "carcafe ltda ci",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 85.08
   },
   {
     "Location.Country": "Kenya",
     "Location.Region": "central kenya",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 85.33
-  },
-  {
-    "Location.Country": "Kenya",
-    "Location.Region": "central kenya",
-    "Data.Production.Number of bags": 300,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 85.33
-  },
-  {
-    "Location.Country": "Kenya",
-    "Location.Region": "central kenya",
+    "Year": 2012,
+    "Data.Owner": "rashid moledina & co. (msa) ltd.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL34",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 38,
     "Data.Production.Bag weight": 60,
     "Data.Scores.Total": 85
   },
   {
-    "Location.Country": "Kenya",
-    "Location.Region": "central kenya",
-    "Data.Production.Number of bags": 150,
-    "Data.Production.Bag weight": 9000,
-    "Data.Scores.Total": 84
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 31,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 85
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "artemio zapata tejeda",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 25,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.92
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.83
   },
   {
     "Location.Country": "Kenya",
     "Location.Region": "nyeri",
+    "Year": 2012,
+    "Data.Owner": "dream together",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL28",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 235,
     "Data.Production.Bag weight": 60,
     "Data.Scores.Total": 84.67
   },
   {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "acatenango",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 125,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "el remudadero",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 80,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "mbale",
+    "Year": 2012,
+    "Data.Owner": "afca",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.67
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.58
+  },
+  {
+    "Location.Country": "Costa Rica",
+    "Location.Region": "tres rios",
+    "Year": 2012,
+    "Data.Owner": "lusso lab",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.58
+  },
+  {
     "Location.Country": "Kenya",
     "Location.Region": "nyeri",
+    "Year": 2012,
+    "Data.Owner": "dream together",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL28",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 235,
     "Data.Production.Bag weight": 60,
     "Data.Scores.Total": 84.5
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "adolfo lopez mateos",
-    "Data.Production.Number of bags": 200,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "altotonga",
-    "Data.Production.Number of bags": 200,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "amatenango de la frontera",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "atoyac de alvarez",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "atoyac de alvarez",
-    "Data.Production.Number of bags": 21,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "atoyac de alvarez",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "calnali, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "calnali, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "canoas",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "chapulhuacan, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "chocaman, veracruz",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 74.33
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 25,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 23,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 77.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 76.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 74.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 73.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec, coatepec",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec, coatepec",
-    "Data.Production.Number of bags": 253,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coatepec, coatepec",
-    "Data.Production.Number of bags": 127,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "cofradia de suchitlan",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "colima",
-    "Data.Production.Number of bags": 70,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "colima",
-    "Data.Production.Number of bags": 60,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "cordoba",
-    "Data.Production.Number of bags": 320,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "coscomatepec",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "el remudadero",
-    "Data.Production.Number of bags": 80,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "escuitla",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "fln mirador",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "huautla de jimenez",
-    "Data.Production.Number of bags": 18,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 75.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "huazalingo, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "huazalingo, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "huazalingo, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.42
-  },
-  {
-    "Location.Country": "Mexico",
     "Location.Region": "hustusco",
+    "Year": 2012,
+    "Data.Owner": "maria imelda uscanga martinez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 56,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 84.5
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "ixhuatlan del cafe",
-    "Data.Production.Number of bags": 60,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.92
-  },
-  {
-    "Location.Country": "Mexico",
     "Location.Region": "jaltenango",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 84.5
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "jaltenango",
+    "Location.Country": "Guatemala",
+    "Location.Region": "el tumbador, san marcos",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.92
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 84.5
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "jaltocan, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.33
+    "Location.Country": "Taiwan",
+    "Location.Region": "mountain ali, taiwan",
+    "Year": 2012,
+    "Data.Owner": "kao ming lee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 84.42
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "juchique de ferrer",
-    "Data.Production.Number of bags": 12,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 68.33
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "juquila",
-    "Data.Production.Number of bags": 40,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 28,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 28,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 28,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 28,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia, chiapas",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia, chiapas",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la concordia, chiapas",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la cumbre",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "la yerbabuena",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "los angeles",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "mahuixtlan",
-    "Data.Production.Number of bags": 23,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "manzanillo",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "menglian",
-    "Data.Production.Number of bags": 43,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "motozintla",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "motozintla",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "motozintla, chiapas",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "motozintla, chiapas",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "motozintla, chiapas",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "motozintla, chiapas",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 77.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "oaxaca",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "oaxaca",
-    "Data.Production.Number of bags": 42,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "oaxaca",
-    "Data.Production.Number of bags": 30,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "ocosingo",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 75.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "ohuapan, tlaltetela",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "petatlan",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "petatlan",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "petatlan",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 77.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "pochutla",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "pochutla",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "progreso santa rosa teocelo",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "san bartolo tutotepec",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "san bartolo tutotepec",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "san bartolo tutotepec",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "san fernando",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "san isidro",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "san miguel del puerto",
-    "Data.Production.Number of bags": 256,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "santa catarina juquila",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "santa catarina juquila",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.33
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "santa maria sitepec",
-    "Data.Production.Number of bags": 40,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "santo domingo cacalotepec",
-    "Data.Production.Number of bags": 300,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "santo reyes nopala",
-    "Data.Production.Number of bags": 30,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "talpa de allende",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "talpa de allende",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.08
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 5,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.42
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "tapachula",
+    "Year": 2012,
+    "Data.Owner": "maria amalia guadalupe toriello elorza",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Pacamara",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 69,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 84.42
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "tapachula",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tapachula",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 80,
-    "Data.Scores.Total": 81.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tapachula",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.33
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tapachula",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tapachula",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "temaxcalapa",
-    "Data.Production.Number of bags": 30,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tenango de doria, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tenango de doria, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tepetzingo",
-    "Data.Production.Number of bags": 50,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tepictla",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tlanchinol, hidalgo",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tlatlauquitepec",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 71.08
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "totutla",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.5
-  },
-  {
-    "Location.Country": "Mexico",
     "Location.Region": "tuxtla gutierrez",
+    "Year": 2012,
+    "Data.Owner": "victor hugo melchor cordova",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 100,
     "Data.Production.Bag weight": 80,
     "Data.Scores.Total": 84.33
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "tuxtla gutierrez",
-    "Data.Production.Number of bags": 100,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "tuxtla gutierrez",
-    "Data.Production.Number of bags": 36,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.75
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.25
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "manuel herrera juarez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 20,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 84.25
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
+    "Location.Region": "la concordia, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.25
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "kasese",
+    "Year": 2012,
+    "Data.Owner": "afca",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 84.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "guatemala",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.17
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "mt. rwenzori",
+    "Year": 2012,
+    "Data.Owner": "afca",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.17
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 14,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 84.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santo domingo cacalotepec",
+    "Year": 2012,
+    "Data.Owner": "andres martinez leon",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84.08
+  },
+  {
+    "Location.Country": "Ethiopia",
+    "Location.Region": "ethiopia, sidamo",
+    "Year": 2012,
+    "Data.Owner": "steven kil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84.08
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "blend",
+    "Year": 2012,
+    "Data.Owner": "ibero kenya limited",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL34",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Thailand",
+    "Location.Region": "thailand",
+    "Year": 2012,
+    "Data.Owner": "doi tung development project",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Kenya",
+    "Location.Region": "central kenya",
+    "Year": 2012,
+    "Data.Owner": "taylor winch (coffee) ltd.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "SL28",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 150,
+    "Data.Production.Bag weight": 9000,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Uganda",
+    "Location.Region": "kasese",
+    "Year": 2012,
+    "Data.Owner": "afca",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 84
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xicotepec de juarez",
+    "Year": 2012,
+    "Data.Owner": "oscar ortega carballo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 48,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la yerbabuena",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "petatlan",
+    "Year": 2012,
+    "Data.Owner": "filemon mendoza campos",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Pacas",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huazalingo, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
     "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "quetzaltenango",
+    "Year": 2012,
+    "Data.Owner": "the coffee source inc.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": "1.360.776",
+    "Data.Scores.Total": 83.75
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "the coffee source inc.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xicotepec de juarez",
+    "Year": 2012,
+    "Data.Owner": "juan luis ortega carballo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 48,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Indonesia",
+    "Location.Region": "east java",
+    "Year": 2012,
+    "Data.Owner": "ekai international company ltd.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "sacatepequez, guatemala",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 83.67
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "cundinamarca",
+    "Year": 2012,
+    "Data.Owner": "carcafe ltda ci",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 33,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Year": 2012,
+    "Data.Owner": "manuel herrera juarez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "totutla",
+    "Year": 2012,
+    "Data.Owner": "gabriel bernardo rivas ross",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Pacamara",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "atitlan",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 175,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "felipe isaza",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 83.5
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 13,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.42
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "cundinamarca",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.42
+  },
+  {
+    "Location.Country": "Haiti",
+    "Location.Region": "thiotte, haiti",
+    "Year": 2012,
+    "Data.Owner": "itiah coffee llc",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": "1.814.368",
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "Burundi",
+    "Location.Region": "kayanza",
+    "Year": 2012,
+    "Data.Owner": "steven kil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 220,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.33
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 11,
+    "Data.Production.Bag weight": 453.592,
     "Data.Scores.Total": 83.25
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "ernesto rodriguez luna",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Yellow Bourbon",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "la plata",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 175,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tlanchinol, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san bartolo tutotepec",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Pacamara",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san isidro",
+    "Year": 2012,
+    "Data.Owner": "fernando mendoza aparicio",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "mogiana",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "felipe isaza",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 83.17
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 6,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santa catarina juquila",
+    "Year": 2012,
+    "Data.Owner": "maria luisa del carmen rojas narvaez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 6,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 83.08
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "rosa aurora falcon fernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "atoyac de alvarez",
+    "Year": 2012,
+    "Data.Owner": "santiago solis ayerdi",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "la reforma, san marcos",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "petatlan",
+    "Year": 2012,
+    "Data.Owner": "maria guadalupe gomez anzo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "Vietnam",
+    "Location.Region": "don duong",
+    "Year": 2012,
+    "Data.Owner": "royal base corporation",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la cumbre",
+    "Year": 2012,
+    "Data.Owner": "veronica lopez castillejos",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "armando luis pohlenz martinez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.83
@@ -1514,20 +1298,395 @@
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "sergio de la vequia bernardi",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.75
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 26,
+    "Location.Region": "atoyac de alvarez",
+    "Year": 2012,
+    "Data.Owner": "romulo bello flores",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 21,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 6,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Panama",
+    "Location.Region": "boquete",
+    "Year": 2012,
+    "Data.Owner": "rachel peterson",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 300,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82.75
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "antigua",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Thailand",
+    "Location.Region": "thailand",
+    "Year": 2012,
+    "Data.Owner": "doi tung development project",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 2,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "mahuixtlan",
+    "Year": 2012,
+    "Data.Owner": "grupo cafetalero los brujos spr de rl",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 23,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.67
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "oaxaca",
+    "Year": 2012,
+    "Data.Owner": "guillermo rojas saldana",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "colima",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 70,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san bartolo tutotepec",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zapotitlan de mendez",
+    "Year": 2012,
+    "Data.Owner": "enrique mitre lopez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "enrique eduardo lopez aguilar",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.5
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 39,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xalapa",
+    "Year": 2012,
+    "Data.Owner": "manuel herrera juarez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zihuatanejo de azueta",
+    "Year": 2012,
+    "Data.Owner": "dario cesar galeana sanchez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 74,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.42
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "jose daniel cobilt castro",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Pacamara",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 26,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "xicotepec de juarez",
+    "Year": 2012,
+    "Data.Owner": "alvaro quiros perez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "progreso santa rosa teocelo",
+    "Year": 2012,
+    "Data.Owner": "olivia hernandez virves",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "fln mirador",
+    "Year": 2012,
+    "Data.Owner": "finca las nieves",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "carcafe ltda ci",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Arusha",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 51,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.42
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "jalapa",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "jaltocan, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
     "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.33
@@ -1535,6 +1694,83 @@
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "manuel herrera juarez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 16,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santa catarina juquila",
+    "Year": 2012,
+    "Data.Owner": "maria luisa del carmen rojas narvaez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 44,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "carcafe ltda ci",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "calnali, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.25
@@ -1542,230 +1778,1331 @@
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 250,
+    "Year": 2012,
+    "Data.Owner": "manuel herrera juarez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "juquila",
+    "Year": 2012,
+    "Data.Owner": "guillermo rojas saldana",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 40,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.25
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "sergio de la vequia bernardi",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "canoas",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "exportadora de cafe condor s.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Colombia",
+    "Location.Region": "huila",
+    "Year": 2012,
+    "Data.Owner": "racafe & cia s.c.a",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 70,
+    "Data.Scores.Total": 82.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san bartolo tutotepec",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "the coffee source inc.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "altotonga",
+    "Year": 2012,
+    "Data.Owner": "salvador caro carrion",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 200,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "colima",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 60,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.17
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 4,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Year": 2012,
+    "Data.Owner": "julio perez hernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 82.08
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "rosa aurora falcon fernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Vietnam",
+    "Location.Region": "don duong",
+    "Year": 2012,
+    "Data.Owner": "royal base corporation",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 30,
+    "Year": 2012,
+    "Data.Owner": "sergio de la vequia bernardi",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 82.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coscomatepec",
+    "Year": 2012,
+    "Data.Owner": "jorge octavio escamilla prado",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "cerrado",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 75,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "san marcos",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 53,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "felipe isaza",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 82
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "chapulhuacan, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huazalingo, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 81.92
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "juan hermilio sampieri carcamo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "grama valley",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 8,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 81.92
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 19,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 81.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "christina dusing",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 302,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 81.83
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "jorge francisco martinez hachity",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.83
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tenango de doria, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tepictla",
+    "Year": 2012,
+    "Data.Owner": "sergio landa alarcon",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "oaxaca",
+    "Year": 2012,
+    "Data.Owner": "diego manuel woolrich ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 42,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "armando luis pohlenz martinez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "enrique eduardo lopez aguilar",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "jalapa",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tuxtla gutierrez",
+    "Year": 2012,
+    "Data.Owner": "virginia gordillo gordillo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "yajalon",
+    "Year": 2012,
+    "Data.Owner": "jose luis munoz guerrero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "christina dusing",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 275,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 81.67
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 70,
+    "Location.Region": "la concordia, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 13,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 81.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "enrique eduardo lopez aguilar",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Marigojipe",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "enrique eduardo lopez aguilar",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 28,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "amatenango de la frontera",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "temaxcalapa",
+    "Year": 2012,
+    "Data.Owner": "jose luis munoz guerrero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "manzanillo",
+    "Year": 2012,
+    "Data.Owner": "jose luis munoz guerrero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Year": 2012,
+    "Data.Owner": "tomas edelmann blass",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 80,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "atoyac de alvarez",
+    "Year": 2012,
+    "Data.Owner": "maria de la paz aguilar guillen",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Indonesia",
+    "Location.Region": "ijen",
+    "Year": 2012,
+    "Data.Owner": "specialty coffee association of indonesia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huazalingo, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec, coatepec",
+    "Year": 2012,
+    "Data.Owner": "grupo cafetalero los brujos spr de rl",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Year": 2012,
+    "Data.Owner": "julio perez hernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 81.33
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "hector gabriel barreda nader",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 70,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Year": 2012,
+    "Data.Owner": "julio perez hernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "the coffee source inc.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.17
+  },
+  {
+    "Location.Country": "Brazil",
+    "Location.Region": "south of minas",
+    "Year": 2012,
+    "Data.Owner": "nucoffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 17,
+    "Data.Production.Bag weight": 60,
+    "Data.Scores.Total": 81.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san fernando",
+    "Year": 2012,
+    "Data.Owner": "obed rendon ponce",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santo reyes nopala",
+    "Year": 2012,
+    "Data.Owner": "diego manuel woolrich ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "santa maria sitepec",
+    "Year": 2012,
+    "Data.Owner": "gerardo hernandez valderrabano",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 40,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "talpa de allende",
+    "Year": 2012,
+    "Data.Owner": "balbino ramirez flores",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alejandro garcia palacios",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "adolfo lopez mateos",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 200,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 81
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "ixhuatlan del cafe",
+    "Year": 2012,
+    "Data.Owner": "eduardo luis augusto velazquez solis",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 60,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla",
+    "Year": 2012,
+    "Data.Owner": "luis roberto fermoso beltran",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 15,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 80.83
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 15,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 80.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 82,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.92
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.83
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 12,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.25
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 35,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.75
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "veracruz",
-    "Data.Production.Number of bags": 25,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 71
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "xalapa",
-    "Data.Production.Number of bags": 14,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 87.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "xalapa",
-    "Data.Production.Number of bags": 250,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.58
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "xalapa",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.5
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "xalapa",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "xalapa",
+    "Year": 2012,
+    "Data.Owner": "christina dusing",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 100,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 74
+    "Data.Scores.Total": 80.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 7,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 80.83
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "xicotepec de juarez",
-    "Data.Production.Number of bags": 48,
+    "Location.Region": "oaxaca",
+    "Year": 2012,
+    "Data.Owner": "diego manuel woolrich ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 30,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.92
+    "Data.Scores.Total": 80.75
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "xicotepec de juarez",
-    "Data.Production.Number of bags": 48,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 83.67
+    "Location.Country": "Haiti",
+    "Location.Region": "haiti",
+    "Year": 2012,
+    "Data.Owner": "myriam kaplan-pasternak",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 80.75
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "xicotepec de juarez",
-    "Data.Production.Number of bags": 10,
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.42
+    "Data.Scores.Total": 80.67
   },
   {
-    "Location.Country": "Mexico",
-    "Location.Region": "yajalon",
-    "Data.Production.Number of bags": 15,
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 81.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "yajalon",
-    "Data.Production.Number of bags": 53,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.17
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "yecuatla",
-    "Data.Production.Number of bags": 20,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 78.67
-  },
-  {
-    "Location.Country": "Mexico",
-    "Location.Region": "zapotitlan de mendez",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.5
+    "Data.Scores.Total": 80.67
   },
   {
     "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 18,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 80.5
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "pochutla",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.42
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "armando luis pohlenz martinez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.42
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 80.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "the coffee source inc.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "calnali, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.25
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 15,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 80.17
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "marco virgilio ramirez teliz",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 15,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.17
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.17
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 13,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 80.08
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "escuitla",
+    "Year": 2012,
+    "Data.Owner": "federico pacheco perez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "pablo enrique martinez gama",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "san miguel del puerto",
+    "Year": 2012,
+    "Data.Owner": "semiramis casas velazquez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 256,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 80
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alejandro garcia palacios",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "christina dusing",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 82,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "jaltenango",
+    "Year": 2012,
+    "Data.Owner": "montegrande",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "pablo enrique martinez gama",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "sergio de la vequia bernardi",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 79.83
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 12,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 79.75
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "pochutla",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "antigua",
+    "Year": 2012,
+    "Data.Owner": "lusso lab",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tuxtla gutierrez",
+    "Year": 2012,
+    "Data.Owner": "montegrande",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 36,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tenango de doria, hidalgo",
+    "Year": 2012,
+    "Data.Owner": "saul m. hernandez ramirez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec, coatepec",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 253,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tepetzingo",
+    "Year": 2012,
+    "Data.Owner": "obed rendon ponce",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "armando luis pohlenz martinez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "la concordia",
+    "Year": 2012,
+    "Data.Owner": "armando luis pohlenz martinez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec, coatepec",
+    "Year": 2012,
+    "Data.Owner": "mario jose fernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 127,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.5
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zentla",
+    "Year": 2012,
+    "Data.Owner": "eric jesus cordoba arroyo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 30,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "zentla",
+    "Year": 2012,
+    "Data.Owner": "eric jesus cordoba arroyo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "marco virgilio ramirez teliz",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.25
+  },
+  {
+    "Location.Country": "Costa Rica",
+    "Location.Region": "san rafael",
+    "Year": 2012,
+    "Data.Owner": "brent hall",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 1,
+    "Data.Production.Bag weight": 2,
+    "Data.Scores.Total": 79.17
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 79.17
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "yajalon",
+    "Year": 2012,
+    "Data.Owner": "julio cesar robles flores",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 53,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.17
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 13,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 79.08
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "talpa de allende",
+    "Year": 2012,
+    "Data.Owner": "balbino ramirez flores",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.08
+  },
+  {
+    "Location.Country": "Peru",
+    "Location.Region": "san ignacio",
+    "Year": 2012,
+    "Data.Owner": "sustainable harvest coffee",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 280,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 79
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
     "Data.Production.Number of bags": 16,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 79
@@ -1773,330 +3110,493 @@
   {
     "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 14,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 78.92
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "octavio augusto diaz trejo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "damaso martinez perez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Semi-washed / Semi-pulped",
+    "Data.Production.Number of bags": 35,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "ohuapan, tlaltetela",
+    "Year": 2012,
+    "Data.Owner": "productores de especialidad emiliano zapeata, spr.",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.75
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "yecuatla",
+    "Year": 2012,
+    "Data.Owner": "juan garcia hernandez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.67
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "tapachula",
+    "Year": 2012,
+    "Data.Owner": "alfredo bojalil",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "cofradia de suchitlan",
+    "Year": 2012,
+    "Data.Owner": "organizaciones de productores de cafe colimense",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "los angeles",
+    "Year": 2012,
+    "Data.Owner": "francisco ruiz nunez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Caturra",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.5
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 78.42
   },
   {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.33
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.33
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 5,
+    "Data.Production.Bag weight": 453.592,
+    "Data.Scores.Total": 78.25
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "cordoba",
+    "Year": 2012,
+    "Data.Owner": "gustavo amieva gonzalez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 320,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78.08
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alejandro garcia palacios",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 78
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "petatlan",
+    "Year": 2012,
+    "Data.Owner": "gustavo abarca solis",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 50,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.92
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.92
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "stephany escamilla femat",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 23,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.5
+  },
+  {
     "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 10,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 77.33
   },
   {
     "Location.Country": "Mexico",
+    "Location.Region": "motozintla, chiapas",
+    "Year": 2012,
+    "Data.Owner": "alejandro garcia palacios",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Other",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 77.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "homero antonio de anda andrade",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 76.42
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 69,
+    "Data.Scores.Total": 76.33
+  },
+  {
+    "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 11,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 76.17
   },
   {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.58
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.58
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "ocosingo",
+    "Year": 2012,
+    "Data.Owner": "francisco hernandez lorenzo",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "huautla de jimenez",
+    "Year": 2012,
+    "Data.Owner": "martin jimenez casiano",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 18,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75.17
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "menglian",
+    "Year": 2012,
+    "Data.Owner": "grupo juvenil magtayani, ac",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 43,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 75
+  },
+  {
     "Location.Country": "Mexico",
     "Location.Region": "zaragoza itundujia",
+    "Year": 2012,
+    "Data.Owner": "israel eduardo paz garcia",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 14,
     "Data.Production.Bag weight": 1,
     "Data.Scores.Total": 74.92
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "zentla",
-    "Data.Production.Number of bags": 30,
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "pablo enrique martinez gama",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.33
+    "Data.Scores.Total": 74.83
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.75
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 250,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 74.75
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "zentla",
-    "Data.Production.Number of bags": 50,
+    "Location.Region": "chocaman, veracruz",
+    "Year": 2012,
+    "Data.Owner": "jorge octavio escamilla prado",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.33
+    "Data.Scores.Total": 74.33
   },
   {
     "Location.Country": "Mexico",
-    "Location.Region": "zihuatanejo de azueta",
-    "Data.Production.Number of bags": 74,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.42
-  },
-  {
-    "Location.Country": "Panama",
-    "Location.Region": "boquete",
-    "Data.Production.Number of bags": 300,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 82.75
-  },
-  {
-    "Location.Country": "Peru",
-    "Location.Region": "san ignacio",
-    "Data.Production.Number of bags": 280,
-    "Data.Production.Bag weight": 69,
-    "Data.Scores.Total": 79
-  },
-  {
-    "Location.Country": "Taiwan",
-    "Location.Region": "mountain ali, taiwan",
-    "Data.Production.Number of bags": 2,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 84.42
-  },
-  {
-    "Location.Country": "Thailand",
-    "Location.Region": "chiang rai",
-    "Data.Production.Number of bags": 53,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 86.17
-  },
-  {
-    "Location.Country": "Thailand",
-    "Location.Region": "thailand",
-    "Data.Production.Number of bags": 2,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 84
-  },
-  {
-    "Location.Country": "Thailand",
-    "Location.Region": "thailand",
-    "Data.Production.Number of bags": 2,
-    "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 82.67
-  },
-  {
-    "Location.Country": "Uganda",
-    "Location.Region": "kasese",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 84.25
-  },
-  {
-    "Location.Country": "Uganda",
-    "Location.Region": "kasese",
-    "Data.Production.Number of bags": 320,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 84
-  },
-  {
-    "Location.Country": "Uganda",
-    "Location.Region": "mbale",
-    "Data.Production.Number of bags": 320,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 84.67
-  },
-  {
-    "Location.Country": "Uganda",
-    "Location.Region": "mt. rwenzori",
-    "Data.Production.Number of bags": 320,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 84.17
-  },
-  {
-    "Location.Country": "Uganda",
-    "Location.Region": "sipi, mt elgon",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 60,
-    "Data.Scores.Total": 86
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "chikmagalur",
+    "Location.Region": "xalapa",
+    "Year": 2012,
+    "Data.Owner": "myrna roxana galvez gonzalez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
     "Data.Production.Number of bags": 100,
     "Data.Production.Bag weight": 1,
-    "Data.Scores.Total": 79.33
+    "Data.Scores.Total": 74
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "coatepec",
+    "Year": 2012,
+    "Data.Owner": "eugene holman pew",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 20,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 73.83
   },
   {
     "Location.Country": "United States",
     "Location.Region": "kona",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 86.25
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 8,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 85.58
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 8,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 85.42
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 14,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 84.83
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 5,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 84.42
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 7,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 84.25
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 14,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 84.08
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 13,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 83.42
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 7,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 83.33
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 11,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 83.25
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 6,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 83.08
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 7,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 83.08
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 6,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 83.08
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 8,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 82.92
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 6,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 82.75
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 7,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 82.5
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 4,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 82.08
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 82.08
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 19,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 81.83
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 13,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 81.67
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 7,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 80.83
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 10,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 80.33
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 12,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 79.83
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
-    "Data.Production.Number of bags": 5,
-    "Data.Production.Bag weight": 453.592,
-    "Data.Scores.Total": 78.25
-  },
-  {
-    "Location.Country": "United States",
-    "Location.Region": "kona",
+    "Year": 2012,
+    "Data.Owner": "kona pacific farmers cooperative",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Hawaiian Kona",
+    "Data.Type.Processing method": "Natural / Dry",
     "Data.Production.Number of bags": 22,
     "Data.Production.Bag weight": 453.592,
     "Data.Scores.Total": 73.67
   },
   {
-    "Location.Country": "Vietnam",
-    "Location.Region": "don duong",
-    "Data.Production.Number of bags": 1,
-    "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 82.92
+    "Location.Country": "Mexico",
+    "Location.Region": "tlatlauquitepec",
+    "Year": 2012,
+    "Data.Owner": "jose armando norberto borzani lemini",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Mundo Novo",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 10,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 71.08
   },
   {
-    "Location.Country": "Vietnam",
-    "Location.Region": "don duong",
+    "Location.Country": "Mexico",
+    "Location.Region": "veracruz",
+    "Year": 2012,
+    "Data.Owner": "ricardo aaron sampieri marini",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 25,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 71
+  },
+  {
+    "Location.Country": "Mexico",
+    "Location.Region": "juchique de ferrer",
+    "Year": 2012,
+    "Data.Owner": "juan carlos garcia lopez",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Bourbon",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 12,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 68.33
+  },
+  {
+    "Location.Country": "Haiti",
+    "Location.Region": "department d'artibonite , haiti",
+    "Year": 2012,
+    "Data.Owner": "myriam kaplan-pasternak",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Typica",
+    "Data.Type.Processing method": "Natural / Dry",
     "Data.Production.Number of bags": 1,
     "Data.Production.Bag weight": 2,
-    "Data.Scores.Total": 82.08
+    "Data.Scores.Total": 67.92
+  },
+  {
+    "Location.Country": "Guatemala",
+    "Location.Region": "nuevo oriente",
+    "Year": 2012,
+    "Data.Owner": "juan luis alvarado romero",
+    "Data.Type.Species": "Arabica",
+    "Data.Type.Variety": "Catuai",
+    "Data.Type.Processing method": "Washed / Wet",
+    "Data.Production.Number of bags": 275,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 59.83
+  },
+  {
+    "Location.Country": "United States",
+    "Location.Region": "chikmagalur",
+    "Year": 2012,
+    "Data.Owner": "andrew hetzel",
+    "Data.Type.Species": "Robusta",
+    "Data.Type.Variety": "Arusha",
+    "Data.Type.Processing method": "Natural / Dry",
+    "Data.Production.Number of bags": 100,
+    "Data.Production.Bag weight": 1,
+    "Data.Scores.Total": 79.33
   }
 ]
