@@ -52,49 +52,6 @@ let drawTreeMap = (data) => {
         .attr("width", (d) => { return d.x1 - d.x0 })
         .attr("height", (d) => { return d.y1 - d.y0 })
         
-        //MOUSEOVERları ekler
-        .on("mouseover", (e, d)=>{
-            info.transition()
-                .duration(200)
-                .style("opacity", 0.9)
-            if(d["height"] === 0){
-                info.html(
-                    " Detailed Information " + "<br/>" +  "<hr/>" +
-                    " Country: " + d["parent"]["parent"]["data"][0] + "<br/>" + 
-                    " Region: " + d["parent"]["data"][0] + "<br/>" + 
-                    " Specie: " + d["data"][0] + "<br/>" + 
-                    " Production: " + d["value"] + " kg"
-                )
-            }
-            if(d["height"] === 1){
-                info.html(
-                    " Detailed Information " + "<br/>" +  "<hr/>" +
-                    " Country: " + d["parent"]["data"][0] + "<br/>" + 
-                    " Region: " + d["data"][0] + "<br/>" +
-                    " Production: " + d["value"] + " kg"
-                )
-            }
-            if(d["height"] === 2){
-                info.html(
-                    " Detailed Information " + "<br/>" +  "<hr/>" +
-                    " Country: " + d["data"][0] + "<br/>" + 
-                    " Production: " + d["value"] + " kg"
-                )
-            }
-            if(d["height"] === 3){
-                info.html(
-                    " Detailed Information " + "<br/>" +  "<hr/>" +
-                    " Total Production: " + d["value"] + " kg"
-                )
-            }
-            
-        })
-        .on("mouseout", ()=>{
-            info.transition()
-                .duration(200)
-                .style("opacity", 0)
-        })
-
     nodes.append("text")
         .attr("dx", 2)
         .attr("dy", 14)
@@ -114,14 +71,77 @@ let drawTreeMap = (data) => {
                 return d["value"] >= 10000 ? d["value"] : " "
             }
         })
-
-    //Farklı ülkelere rastgele farklı renk verir
-    rects
-        .attr("fill", (d) => {
-            if (d["depth"] === 1) {
-                return "#" + Math.floor(Math.random() * 16777215).toString(16)
+    /*************
+     * TOOLTİP EKLER
+    *************/
+    nodes.append("title")
+        .text((d) => {
+            if (d["height"] === 0) {
+                return "Country: " + d["parent"]["parent"]["data"][0] + "\n" +
+                    "Region: " + d["parent"]["data"][0] + "\n" +
+                    "Specie: " + d["data"][0] + "\n" +
+                    "Production: " + d["value"] + " kg"
+            }
+            if (d["height"] === 1) {
+                return "Country: " + d["parent"]["data"][0] + "\n" +
+                    "Region: " + d["data"][0] + "\n" +
+                    "Production: " + d["value"]
+            }
+            if (d["height"] === 2) {
+                return "Country: " + d["data"][0] + "\n" +
+                    "Production: " + d["value"]
+            }
+            if (d["height"] === 3) {
+                return "Total Production: " + d["value"]
             }
         })
+    
+    //Farklı ülkelere rastgele farklı renk verir
+    var maxValue = d3.max(hierarchy.leaves(), (d)=>{return d["value"]})
+    var minValue = d3.min(hierarchy.leaves(), (d)=>{return d["value"]})
+
+    let colorScale = d3.scaleLinear()
+                        .range(['sandybrown', 'saddlebrown'])
+                        .domain([minValue, maxValue]);  
+
+    rects
+        .style("opacity", (d) => {
+            if (d["height"] === 0) {
+                return "1";
+            }
+        })
+        .attr("fill", (d) => {
+            if (d["height"] === 0) {
+                return colorScale(d["value"]);
+            }
+            else if(d["depth"] === 1) return randomColor();
+        })
+    //Random Color
+    function randomColor(){
+        return "#" + Math.floor(Math.random() * 16777215).toString(16)
+    }
+
+    //Color Legend
+    let colorLegend = d3.select("#color-legend");
+    
+    colorLegend.append("rect")
+                .style("opacity", 1).attr("x", 10).attr("y", 10).attr("width", 40).attr("height", 40).attr("fill", (d)=>{return colorScale(maxValue)})
+    colorLegend.append("text")
+    .attr("dx", 60)
+    .attr("dy", 35)
+    .style("fill", "black")
+    .style("font-size", "15px")
+    .text(maxValue + " kg")
+
+    colorLegend.append("rect")
+                .style("opacity", 1).attr("x", 10).attr("y", 60).attr("width", 40).attr("height", 40).attr("fill", (d)=>{return colorScale(minValue)})
+    colorLegend.append("text")
+    .attr("dx", 60)
+    .attr("dy", 85)
+    .style("fill", "black")
+    .style("font-size", "15px")
+    .text(minValue + " kg")
+    
 }
 
 //Üretim miktarlarının toplamını döndürür
