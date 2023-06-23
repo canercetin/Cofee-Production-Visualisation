@@ -1,0 +1,28 @@
+html, body {
+    min-height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+svg {
+    background-color: whitesmoke;
+}
+#canvas {
+    min-width: 1200px;
+    min-height: 600px;
+}
+#color-legend{
+    margin-top: 20px;
+}
+rect {
+    opacity: 0.3;
+    stroke: white;
+}
+text{
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    fill: white;
+    font-size: 8px;
+}

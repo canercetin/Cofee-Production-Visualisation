@@ -1,5 +1,4 @@
 let dataPath = "coffee.json";
-let coffeeData
 let canvas = d3.select('#canvas');
 let info = d3.select("#info")
 
@@ -48,9 +47,11 @@ let drawTreeMap = (data) => {
     //D3's treemap function
     let treemapLayout = d3.treemap()
         .size([1200, 600])
-        .paddingTop(20) //Üst boşlukları belirler
+        .paddingTop(20) 
     treemapLayout.tile(d3.treemapBinary)
     treemapLayout(hierarchy);
+
+    //To see data as object
     console.log(hierarchy);
 
     //Adds groups based on data
@@ -109,7 +110,6 @@ let drawTreeMap = (data) => {
         })
 
     //COLORS
-
     //Sets the opacity of the lowest level rectangles to one.
     rects
         .style("opacity", (d) => {
