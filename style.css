@@ -18,19 +18,12 @@ svg {
     min-height: 600px;
 }
 #color-legend{
-    width: 200px;
-    height: 110px;
-    margin-top: 10px;
-    background-color: whitesmoke;
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 10px;
+    margin-top: 20px;
 }
 rect {
     opacity: 0.3;
     stroke: white;
-
 }
-
 text{
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     fill: white;
